@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class WeatherScreen extends StatelessWidget {
-	const WeatherScreen({super.key});
+class WeatherPage extends StatelessWidget {
+	const WeatherPage({super.key});
 
 	@override
 	Widget build(BuildContext context) {
@@ -302,7 +302,7 @@ class WeatherScreen extends StatelessWidget {
 																		borderRadius: BorderRadius.circular(36),
 																	),
 																),
-																Container(
+																Container( 
 																	decoration: BoxDecoration(
 																		color: Colors.white12,
 																		borderRadius: BorderRadius.circular(36),
