@@ -481,25 +481,25 @@ class _ScrollTipSectionTileThree extends StatelessWidget{
 
 // #############################################################################################################################################################################
 
-class _DayForecast extends StatelessWidget {
-    const _DayForecast();
+// class _DayForecast extends StatelessWidget {
+//     const _DayForecast();
 
-    @override
-    Widget build(BuildContext context) {
-        return Container(
+//     @override
+//     Widget build(BuildContext context) {
+//         return Container(
 
-        );
-    }
-}
+//         );
+//     }
+// }
 
-class _HourlyWeatherItem extends StatelessWidget {
-    const _HourlyWeatherItem();
+// class _HourlyWeatherItem extends StatelessWidget {
+//     const _HourlyWeatherItem();
 
-    @override
-    Widget build(BuildContext context) {
-        return Container(
+//     @override
+//     Widget build(BuildContext context) {
+//         return Container(
             
-        );
-    }
-}
+//         );
+//     }
+// }
 
